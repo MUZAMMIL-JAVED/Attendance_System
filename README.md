@@ -1,16 +1,14 @@
 # 📚 Attendance Management System
 
-![GitHub Repo views](https://komarev.com/ghpvc/?username=Salmanhy074&label=Repo%20views&color=blue&style=flat-square)
 
 
-Hey everyone, it’s **MUHAMMAD SALMAN** here!
+Hey everyone, it’s **MUZAMMIL JAVED** here!
 
 I'm thrilled to share an exciting update on our Attendance Management System. We've created a robust Android application using XML, and Java with Firebase Authentication and Storage. This system streamlines student attendance management, making tracking, sharing, and exporting attendance records easier.
 
 **If you find this project helpful or interesting, please consider starring the repository on GitHub! I appreciate your support.**
 
-APK File: Download the latest APK file of this project and provide feedback 😃.
-[Download the APK](https://github.com/Salmanhy074/Attendance-System/raw/master/app-debug.apk)
+
 
 ## Feel free to check out my other repositories:
 
@@ -88,22 +86,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 
 
-## Contact
-
-<div id="badges" align="left">
-  <a href="https://github.com/Salmanhy074/Salmanhy074">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/itxz_sallu_">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-salman074">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://wa.me/+923082456659">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
-  </a>
-</div>
 
 ## License
 
